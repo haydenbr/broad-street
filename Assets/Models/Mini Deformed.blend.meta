@@ -1,0 +1,187 @@
+fileFormatVersion: 2
+guid: 2072aaf89edb04af4b05487379af8819
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Blinkers
+    100002: Car_Body
+    100004: Door_Handles
+    100006: Fenders
+    100008: Front_Plate
+    100010: Front_Windshield
+    100012: Grille
+    100014: Grille_Vents
+    100016: Headlights
+    100018: //RootNode
+    100020: Rear_Plate
+    100022: Rear_Plate_Over
+    100024: Rear_Windshield
+    100026: Side_Windows
+    100028: Tail_Lights
+    100030: Wheels
+    100032: Wheelwell_Boolean
+    100034: Window_Black
+    400000: Blinkers
+    400002: Car_Body
+    400004: Door_Handles
+    400006: Fenders
+    400008: Front_Plate
+    400010: Front_Windshield
+    400012: Grille
+    400014: Grille_Vents
+    400016: Headlights
+    400018: //RootNode
+    400020: Rear_Plate
+    400022: Rear_Plate_Over
+    400024: Rear_Windshield
+    400026: Side_Windows
+    400028: Tail_Lights
+    400030: Wheels
+    400032: Wheelwell_Boolean
+    400034: Window_Black
+    2100000: Mini_Chrome
+    2100002: Plate
+    2100004: Material
+    2100006: Mini_Signal
+    2100008: Mini_Tires
+    2100010: Mini_Hubcaps
+    2100012: unnamed
+    2100014: Mini_Cloth
+    2100016: Mini_Lights
+    2100018: Mini_Window
+    2100020: Mini_Paint
+    2300000: Blinkers
+    2300002: Car_Body
+    2300004: Door_Handles
+    2300006: Fenders
+    2300008: Front_Plate
+    2300010: Front_Windshield
+    2300012: Grille
+    2300014: Grille_Vents
+    2300016: Headlights
+    2300018: Rear_Plate
+    2300020: Rear_Plate_Over
+    2300022: Rear_Windshield
+    2300024: Side_Windows
+    2300026: Tail_Lights
+    2300028: Wheels
+    2300030: Wheelwell_Boolean
+    2300032: Window_Black
+    3300000: Blinkers
+    3300002: Car_Body
+    3300004: Door_Handles
+    3300006: Fenders
+    3300008: Front_Plate
+    3300010: Front_Windshield
+    3300012: Grille
+    3300014: Grille_Vents
+    3300016: Headlights
+    3300018: Rear_Plate
+    3300020: Rear_Plate_Over
+    3300022: Rear_Windshield
+    3300024: Side_Windows
+    3300026: Tail_Lights
+    3300028: Wheels
+    3300030: Wheelwell_Boolean
+    3300032: Window_Black
+    4300000: Rear_Plate_Over
+    4300002: Rear_Plate
+    4300004: Tail_Lights
+    4300006: Blinkers
+    4300008: Front_Plate
+    4300010: Door_Handles
+    4300012: Wheels
+    4300014: Grille_Vents
+    4300016: Grille
+    4300018: Fenders
+    4300020: Wheelwell_Boolean
+    4300022: Window_Black
+    4300024: Headlights
+    4300026: Rear_Windshield
+    4300028: Front_Windshield
+    4300030: Side_Windows
+    4300032: Car_Body
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.85
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.91
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

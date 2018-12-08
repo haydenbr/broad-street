@@ -1,0 +1,205 @@
+fileFormatVersion: 2
+guid: 8b461cce0fa414861bd52bc8886d5713
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Back_Wheels
+    100002: Body
+    100004: //RootNode
+    100006: Door_Handles
+    100008: Front_Bumper
+    100010: Front_Plate
+    100012: Front_Signals
+    100014: Front_Wheelwells
+    100016: Gas_Tank
+    100018: Grille
+    100020: Headlight
+    100022: Headlights
+    100024: Mirrors
+    100026: Rear_Wheel_Wells
+    100028: Side_Windows
+    100030: Trailer_Box
+    100032: Trailer_Doors
+    100034: Trailer_Top
+    100036: Undercarriage
+    100038: Wheels
+    100040: Windshield
+    400000: Back_Wheels
+    400002: Body
+    400004: //RootNode
+    400006: Door_Handles
+    400008: Front_Bumper
+    400010: Front_Plate
+    400012: Front_Signals
+    400014: Front_Wheelwells
+    400016: Gas_Tank
+    400018: Grille
+    400020: Headlight
+    400022: Headlights
+    400024: Mirrors
+    400026: Rear_Wheel_Wells
+    400028: Side_Windows
+    400030: Trailer_Box
+    400032: Trailer_Doors
+    400034: Trailer_Top
+    400036: Undercarriage
+    400038: Wheels
+    400040: Windshield
+    2100000: Camper
+    2100002: Truck_Oilcan
+    2100004: Mirror_Black
+    2100006: windshield
+    2100008: Plate
+    2100010: Reflector
+    2100012: grille
+    2100014: Headlight
+    2100016: Bumper
+    2100018: Truck
+    2100020: Wheelwell
+    2100022: Truck_Undercarriage
+    2100024: Tire
+    2100026: Hub
+    2300000: Back_Wheels
+    2300002: Body
+    2300004: Door_Handles
+    2300006: Front_Bumper
+    2300008: Front_Plate
+    2300010: Front_Signals
+    2300012: Front_Wheelwells
+    2300014: Gas_Tank
+    2300016: Grille
+    2300018: Headlight
+    2300020: Headlights
+    2300022: Mirrors
+    2300024: Rear_Wheel_Wells
+    2300026: Side_Windows
+    2300028: Trailer_Box
+    2300030: Trailer_Doors
+    2300032: Trailer_Top
+    2300034: Undercarriage
+    2300036: Wheels
+    2300038: Windshield
+    3300000: Back_Wheels
+    3300002: Body
+    3300004: Door_Handles
+    3300006: Front_Bumper
+    3300008: Front_Plate
+    3300010: Front_Signals
+    3300012: Front_Wheelwells
+    3300014: Gas_Tank
+    3300016: Grille
+    3300018: Headlight
+    3300020: Headlights
+    3300022: Mirrors
+    3300024: Rear_Wheel_Wells
+    3300026: Side_Windows
+    3300028: Trailer_Box
+    3300030: Trailer_Doors
+    3300032: Trailer_Top
+    3300034: Undercarriage
+    3300036: Wheels
+    3300038: Windshield
+    4300000: Trailer_Doors
+    4300002: Trailer_Top
+    4300004: Gas_Tank
+    4300006: Mirrors
+    4300008: Front_Plate
+    4300010: Front_Signals
+    4300012: Headlight
+    4300014: Headlights
+    4300016: Door_Handles
+    4300018: Windshield
+    4300020: Side_Windows
+    4300022: Grille
+    4300024: Front_Bumper
+    4300026: Body
+    4300028: Rear_Wheel_Wells
+    4300030: Front_Wheelwells
+    4300032: Undercarriage
+    4300034: Wheels
+    4300036: Back_Wheels
+    4300038: Trailer_Box
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1.1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,187 @@
+fileFormatVersion: 2
+guid: 9b105ac0bdc8c49d1b779ebba8163c0c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Body
+    100002: Bumper
+    100004: Door_Handles
+    100006: Front_Plate
+    100008: Front_Signals
+    100010: Grille
+    100012: Headlights
+    100014: //RootNode
+    100016: Mirrors
+    100018: Rear_Plate
+    100020: Spare_Tire
+    100022: Tail_Blinkers
+    100024: Tail_lights
+    100026: Tail_lights_001
+    100028: Undercarriage
+    100030: Wheel_wells
+    100032: Wheels
+    100034: Windows
+    400000: Body
+    400002: Bumper
+    400004: Door_Handles
+    400006: Front_Plate
+    400008: Front_Signals
+    400010: Grille
+    400012: Headlights
+    400014: //RootNode
+    400016: Mirrors
+    400018: Rear_Plate
+    400020: Spare_Tire
+    400022: Tail_Blinkers
+    400024: Tail_lights
+    400026: Tail_lights_001
+    400028: Undercarriage
+    400030: Wheel_wells
+    400032: Wheels
+    400034: Windows
+    2100000: Licence_Plate
+    2100002: Jeep_Plastic
+    2100004: Jeep_Blinkers
+    2100006: Jeep_Taillights
+    2100008: Jeep_Tires
+    2100010: Jeep_Hubcaps
+    2100012: Jeep_Windshield
+    2100014: Jeep_Undercarriage
+    2100016: Jeep_Headlights
+    2100018: Jeep_Paint
+    2300000: Body
+    2300002: Bumper
+    2300004: Door_Handles
+    2300006: Front_Plate
+    2300008: Front_Signals
+    2300010: Grille
+    2300012: Headlights
+    2300014: Mirrors
+    2300016: Rear_Plate
+    2300018: Spare_Tire
+    2300020: Tail_Blinkers
+    2300022: Tail_lights
+    2300024: Tail_lights_001
+    2300026: Undercarriage
+    2300028: Wheel_wells
+    2300030: Wheels
+    2300032: Windows
+    3300000: Body
+    3300002: Bumper
+    3300004: Door_Handles
+    3300006: Front_Plate
+    3300008: Front_Signals
+    3300010: Grille
+    3300012: Headlights
+    3300014: Mirrors
+    3300016: Rear_Plate
+    3300018: Spare_Tire
+    3300020: Tail_Blinkers
+    3300022: Tail_lights
+    3300024: Tail_lights_001
+    3300026: Undercarriage
+    3300028: Wheel_wells
+    3300030: Wheels
+    3300032: Windows
+    4300000: Rear_Plate
+    4300002: Tail_lights_001
+    4300004: Tail_Blinkers
+    4300006: Tail_lights
+    4300008: Front_Plate
+    4300010: Front_Signals
+    4300012: Spare_Tire
+    4300014: Mirrors
+    4300016: Door_Handles
+    4300018: Undercarriage
+    4300020: Wheels
+    4300022: Bumper
+    4300024: Windows
+    4300026: Grille
+    4300028: Headlights
+    4300030: Wheel_wells
+    4300032: Body
+    7400000: Default Take
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
